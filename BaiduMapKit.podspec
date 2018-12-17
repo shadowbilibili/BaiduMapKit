@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BaiduMapKit"
-  s.version      = "0.0.1"
+  s.version      = "4.2.1"
   s.summary      = "A short description of BaiduMapKit."
 
   # This description is used to generate tags and improve search results.
